@@ -12,6 +12,7 @@
 Изучить не значит освоить, и это значит что впереди ещё практика, и ещё практика, и ещё много практики!
 
 ***
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsamura&locale=ru&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Telegramm](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vlad_samura)
 
