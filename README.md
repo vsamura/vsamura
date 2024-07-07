@@ -10,6 +10,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 Впреди ещё теория, практика.  
 Изучить не значит освоить, и это значит что впереди ещё практика, и ещё практика, и ещё много практики!
-<p align="center">
+
 [![Telegram] (https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ] (https://t.me/vlad_samura)
-</p>
+
