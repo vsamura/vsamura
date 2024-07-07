@@ -11,4 +11,4 @@
 Впреди ещё теория, практика.  
 Изучить не значит освоить, и это значит что впереди ещё практика, и ещё практика, и ещё много практики!
 
-[![Картинка](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://en.wikipedia.org](https://t.me/vlad_samura)
+[![Telegramm](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vlad_samura)
