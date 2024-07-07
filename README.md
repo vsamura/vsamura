@@ -12,4 +12,4 @@
 Изучить не значит освоить, и это значит что впереди ещё практика, и ещё практика, и ещё много практики!
 
 ![ (https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ] (https://t.me/vlad_samura)
-
+[![Картинка](https://ik.imagekit.io/awilum/welcome-to-hawkins.jpg)](https://en.wikipedia.org)
