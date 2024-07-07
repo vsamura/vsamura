@@ -12,7 +12,8 @@
 Изучить не значит освоить, и это значит что впереди ещё практика, и ещё практика, и ещё много практики!
 
 ### *Моя статистика*  
-Показываю всем, но добовил её здесь для себя, чтобы улучшать результаты, стараться, не пропускать дней, стремится... эдакий мотиватор :)  
+Показываю всем, но добовил её здесь для себя, чтобы улучшать результаты, стараться, не пропускать дней, стремится...   
+Эдакий мотиватор :)  
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vsamura&theme=highcontrast&locale=ru&card_width=500)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsamura&locale=ru&card_width=500px&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
