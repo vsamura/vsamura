@@ -20,8 +20,8 @@
   
 ### *Контакты*
 Как без них? Всем кому интересна данная тема, начинающие верстальщики, и будущие специалисты в области web разработки - пишите! Всегда рад новым знакомствам, тем более когда есть общая тема и общий какой-то интерес.   
-  
-[![Telegramm](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vlad_samura)  
+
+[![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/vxsamura) [![Telegramm](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vlad_samura)  
 
 ***
 Ну и счетчик... Пока не знаю зачем... Пусть просто пока будет, а там поймем зачем..  
