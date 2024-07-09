@@ -11,8 +11,8 @@
 ![Potoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 ### *Мои работы*  
-- [Automotive](https://vsamura.github.io/Automotive/)  
-- [The largest projects in Russia](https://vsamura.github.io/PracticFigmaSite/)
+* [Automotive](https://vsamura.github.io/Automotive/)  
+* [The largest projects in Russia](https://vsamura.github.io/PracticFigmaSite/)
 
 ### *Моя статистика*   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vsamura&theme=highcontrast&locale=ru&card_width=500)](https://git.io/streak-stats)  
