@@ -11,6 +11,7 @@
 ![Potoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 ### *Мои работы* 
+![works](img/works.jpg)
 Здесь по ссылкам можно посмотреть работы на которых я практикуюсь и прохожу обучение, по мере получения новых знаний я стараюсь их дорбатывть и улучшать:
 * [Automotive](https://vsamura.github.io/Automotive/)   
 * [The largest projects in Russia](https://vsamura.github.io/PracticFigmaSite/)
