@@ -17,6 +17,7 @@
 * [The largest projects in Russia](https://vsamura.github.io/PracticFigmaSite/)
 * [Design and layout](https://vsamura.github.io/Design-and-layout/)
 * [Digital Marketing Agency](https://vsamura.github.io/Digital-Marketing-Agency/)
+* [Partner with Konstuct](https://vsamura.github.io/Partner-with-Konstuct/)
 
 ### *Моя статистика*   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vsamura&theme=highcontrast&locale=ru&card_width=500)](https://git.io/streak-stats)  
