@@ -14,7 +14,7 @@
 Здесь по ссылкам можно посмотреть работы на которых я практикуюсь и прохожу обучение, по мере получения новых знаний я стараюсь их дорбатывть и улучшать:
 * [Automotive](https://github.com/vsamura/Automotive)   
 * [The largest projects in Russia](https://github.com/vsamura/Projects-in-Russia)
-* [Design and layout](https://vsamura.github.io/Design-and-layout/)
+* [Design and layout](https://github.com/vsamura/Design-and-layout)
 * [Digital Marketing Agency](https://vsamura.github.io/Digital-Marketing-Agency/)
 * [Partner with Konstuct](https://vsamura.github.io/Partner-with-Konstuct/)
 * [Alivio](https://vsamura.github.io/Alivio/)
