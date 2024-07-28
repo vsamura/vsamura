@@ -15,7 +15,7 @@
 * [Automotive](https://github.com/vsamura/Automotive)   
 * [The largest projects in Russia](https://github.com/vsamura/Projects-in-Russia)
 * [Design and layout](https://github.com/vsamura/Design-and-layout)
-* [Digital Marketing Agency](https://vsamura.github.io/Digital-Marketing-Agency/)
+* [Digital Marketing Agency](https://github.com/vsamura/Digital-Marketing-Agency)
 * [Partner with Konstuct](https://vsamura.github.io/Partner-with-Konstuct/)
 * [Alivio](https://github.com/vsamura/Alivio)
 
