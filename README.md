@@ -17,7 +17,7 @@
 * [Design and layout](https://github.com/vsamura/Design-and-layout)
 * [Digital Marketing Agency](https://vsamura.github.io/Digital-Marketing-Agency/)
 * [Partner with Konstuct](https://vsamura.github.io/Partner-with-Konstuct/)
-* [Alivio](https://vsamura.github.io/Alivio/)
+* [Alivio](https://github.com/vsamura/Alivio)
 
 ### *Моя статистика*   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vsamura&theme=highcontrast&locale=ru&card_width=500)](https://git.io/streak-stats)  
