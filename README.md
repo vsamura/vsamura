@@ -21,11 +21,11 @@
 * [Britlex](https://github.com/vsamura/Britlex)
 
 
-### *Моя статистика*   
+### *Моя статистика:*   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vsamura&theme=highcontrast&locale=ru&card_width=500)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsamura&locale=ru&card_width=500px&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
   
-### *Контакты*  
+### *Контакты:*  
 
 [![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/vxsamura) [![Telegramm](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vlad_samura)  
 
