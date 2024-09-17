@@ -11,7 +11,7 @@
 
 ### *Мои работы по вёрстке:*  
 ![works](img/works7.jpg)
-Здесь по ссылкам можно пройти в репазитории, и посмотреть работы на которых я практикуюсь и прохожу обучение, по мере получения новых знаний я стараюсь их дорбатывть и улучшать:
+Работы на которых я практикуюсь и прохожу обучение, по мере получения новых знаний я стараюсь их дорбатывть и улучшать:
 * [Automotive](https://github.com/vsamura/Automotive)   
 * [The largest projects in Russia](https://github.com/vsamura/Projects-in-Russia)
 * [Design and layout](https://github.com/vsamura/Design-and-layout)
