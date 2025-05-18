@@ -33,38 +33,19 @@
 ---
 
 ## 📈 Мой прогресс
+- Освоил синтаксис
+- Переменные, типы, условия
+- Разобрался с циклами
 
-```java
-public class Progress {
-    public static void main(String[] args) {
-        int daysOfLearning = 30; // Замени на реальное число
-        System.out.println("Дней изучения Java: " + daysOfLearning);
-        
-        String[] achievements = {
-            "Разобрался с циклами",
-            "Понял ООП",
-            "Написал первый CRUD"
-        };
-        
-        System.out.println("\nЧто уже освоил:");
-        for (String achievement : achievements) {
-            System.out.println("✓ " + achievement);
-        }
-    }
-}
-```
+---
 
+###📌 Планы на ближайшее время
+- Пройти курс Java Syntax на Stepik
+- Решить 50 задач на LeetCode
+- Написать простой чат на сокетах
 
-### *Моя статистика:*   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vsamura&theme=highcontrast&locale=ru&card_width=500)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsamura&locale=ru&card_width=500px&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
-  
-### *Контакты:*  
-
-[![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/vx5080) 
-
-***
+---
  
 ![](https://komarev.com/ghpvc/?username=vsamura&style=for-the-badge&color=yellow)
 
-***
+---
