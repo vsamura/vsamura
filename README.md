@@ -1,3 +1,60 @@
+# Привет, я [Твоё Имя]! 👋  
+### Начинающий Java-разработчик ☕ | Учусь с нуля 🚀  
+
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://java.com)
+[![Учусь](https://img.shields.io/badge/Статус-Активно%20изучаю-blue)](https://github.com/ТВОЙ_НИК)
+
+🌱 **Сейчас осваиваю:**  
+- Основы Java (синтаксис, ООП, коллекции)  
+- Алгоритмы и структуры данных  
+- Работа с IntelliJ IDEA  
+
+📚 **Планирую изучить:**  
+- Spring Boot  
+- Базы данных (SQL)  
+- Многопоточность  
+
+💬 **Могу помочь:** Объяснить базовые концепции Java (делюсь тем, что уже понял сам)  
+📫 **Связь:** [Telegram](https://t.me/ТВОЙ_НИК) | [Почта](mailto:ТВОЯ@ПОЧТА.ру)  
+⚡ **Факт:** Первая программа — `System.out.println("Hello, Java!");`  
+
+---
+
+## 🛠 Мой учебный стек
+
+### Основное
+![Java](http://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+### Учебные ресурсы
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)
+![Stepik](https://img.shields.io/badge/-Stepik-1E74FF?logo=stepik&logoColor=white)
+
+---
+
+## 📈 Мой прогресс
+
+```java
+public class Progress {
+    public static void main(String[] args) {
+        int daysOfLearning = 30; // Замени на реальное число
+        System.out.println("Дней изучения Java: " + daysOfLearning);
+        
+        String[] achievements = {
+            "Разобрался с циклами",
+            "Понял ООП",
+            "Написал первый CRUD"
+        };
+        
+        System.out.println("\nЧто уже освоил:");
+        for (String achievement : achievements) {
+            System.out.println("✓ " + achievement);
+        }
+    }
+}
+
+
 ## Привет, меня зовут Владислав 👋
 
 ### *Что я делаю❓* 
