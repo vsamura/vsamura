@@ -1,7 +1,5 @@
 # Привет, я Влад! 👋  
-### Android-разработчик ☕ | Учусь с нуля 🚀  
-
-[![Учусь](https://img.shields.io/badge/Статус-Активно%20изучаю-blue)](https://github.com/vsamura)
+### ☕ Учусь с нуля 🚀  
 
 ### 🛠 **Мой стек технологий**  
 
@@ -18,16 +16,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 **Моя статистика GitHub**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ВАШ_НИК_НА_GITHUB&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК_НА_GITHUB&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
-
-### 📫 **Как со мной связаться**  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ВАШ_TELEGRAM)  
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/ВАШ_VK)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ВАША_ПОЧТА@gmail.com)  
 
 ### Учебный ресурс
-![Stepik](https://img.shields.io/badge/-Stepik-1E74FF?logo=stepik&logoColor=white)
+![Stepik](https://img.shields.io/badge/-Stepik-1E74FF?logo=stepik&logoColor=white) [![Учусь](https://img.shields.io/badge/Статус-Активно%20изучаю-blue)](https://github.com/vsamura)
 
 
